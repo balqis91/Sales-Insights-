@@ -1,5 +1,6 @@
 # Sales-Insights-
 #  Superstore Sales Performance Analysis
+<img width="1302" height="722" alt="image" src="https://github.com/user-attachments/assets/37a7e267-c9df-4bf7-a487-2588d0a208b7" />
 
 ##  Overview  
 This project provides a detailed analysis of sales, profits, and customer segmentation for a **Superstore** using an interactive Power BI dashboard.  
@@ -67,9 +68,6 @@ The model integrates multiple tables:
 ###  Dashboard Preview  
 Here is the interactive **Superstore Sales Dashboard**:  
 <img width="1301" height="727" alt="image" src="https://github.com/user-attachments/assets/5303d5de-4f44-4953-9874-d20becfc26bd" />
-
-<img width="1302" height="722" alt="image" src="https://github.com/user-attachments/assets/37a7e267-c9df-4bf7-a487-2588d0a208b7" />
-
 
 ###  Key Visuals  
 - **KPIs:** Total Cost (£2.01M), Total Sales (£2.30M), Average Sales (£229.86), Total Profit (£286K), Orders (5,008), Customers (793).  
