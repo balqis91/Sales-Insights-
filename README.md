@@ -109,4 +109,4 @@ To optimize business performance, management should:
 
 ---
 
- Created by [Balikisu Ajoke Oniyide]  
+ Created by Balikisu Ajoke Oniyide  
